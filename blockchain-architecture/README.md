@@ -4,7 +4,7 @@
 
 Frietor Saar is a blockchain network scaffolded using Polygon Edge, designed to provide a robust and scalable infrastructure for decentralized applications. The architecture encompasses various components, each playing a crucial role in the network's functionality.
 
-![Frietor Saar Architecture](/images/architecture.png)
+![Frietor Saar Architecture](/blockchain-architecture/images/architecture.png)
 
 *Image Credits: [https://polygon.technology/]*
 
