@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Frietor Governance and Tokenomics Proposal, a comprehensive framework designed to facilitate decentralized governance and sustainable development of the Frietor blockchain. This proposal is inspired by the governance model of Polygon and introduces three fundamental pillars: Protocol Governance, System Smart Contracts Governance, and Community Treasury Governance.
+Welcome to the Frietor Governance and Tokenomics Proposal, a robust framework inspired by the proven governance model of Polygon. This proposal introduces three pillars: Protocol Governance, System Smart Contracts Governance, and Community Treasury Governance, designed to foster decentralized governance and sustainable development within the Frietor blockchain. We acknowledge and credit Polygon for their innovative approach to governance, which has influenced the structure of Frietor's governance model ([Polygon Governance Pillars](https://polygon.technology/governance-pillars)).
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to the Frietor Governance and Tokenomics Proposal, a comprehensive frame
 
 ### FIP Framework
 
-The Frietor Improvement Proposal (FIP) framework serves as the cornerstone for open-source maintenance and development. FIPs are categorized into four types: Core, Contracts, Interface, and Informational. The framework aims to streamline coordination and consensus around upgrades efficiently.
+The Frietor Improvement Proposal (FIP) framework is the bedrock of open-source maintenance and development. Categorized into Core, Contracts, Interface, and Informational, FIPs streamline coordination and consensus around upgrades efficiently, drawing inspiration from the successful Polygon model.
 
 ---
 
@@ -18,23 +18,23 @@ The Frietor Improvement Proposal (FIP) framework serves as the cornerstone for o
 
 ### Upgrade Classification
 
-Smart contract upgrades are classified into two types: Regular and Emergency. The governance process involves breaking down upgrades into mutually-exclusive and collectively-exhaustive components.
+Smart contract upgrades are classified into Regular and Emergency, reflecting Polygon's approach to systematically managing upgrades for efficiency and security.
 
 ### Timelocks & Security
 
-Timelocks play a pivotal role in the network's security. Regular upgrades follow a scheduled process, while emergency upgrades address critical vulnerabilities. A supermajority consensus from the Frietor Ecosystem Council is required for emergency upgrades.
+Timelocks play a critical role in enhancing network security, aligning with the practices employed by Polygon. Regular and Emergency upgrades undergo a meticulous process, ensuring community safety.
 
 ### Ecosystem Council
 
-The Frietor Ecosystem Council consists of 12 members representing diverse parts of the ecosystem. The council executes regular and emergency upgrades, ensuring transparency through Autopsy or Transparency Reports. Community modification of council membership is facilitated.
+The Frietor Ecosystem Council, mirroring Polygon's governance structure, comprises 12 members from diverse ecosystem segments. Their responsibility includes executing upgrades transparently and allowing community modification of council membership.
 
 ### Voting Power
 
-To align incentives and introduce conviction-based governance, a vote escrow system is under exploration. Users can lock tokens for varying periods, with longer lock-ups resulting in higher voting power.
+A dynamic voting power system, under exploration, aligns with Polygon's commitment to fair and representative governance. This system incentivizes long-term commitment and active participation.
 
 ### Voting Process
 
-Community voting occurs during upgrade timelocks. If there is no majority opposition, the upgrade is automatically executed after the timelock ends. If the quorum is met for majority opposition, the upgrade is canceled.
+Community-driven voting during upgrade timelocks ensures democratic decision-making. This process, inspired by Polygon's governance, promotes inclusivity and consensus building.
 
 ---
 
@@ -42,34 +42,38 @@ Community voting occurs during upgrade timelocks. If there is no majority opposi
 
 ### Community Treasury Board
 
-A proposed Community Treasury Board oversees funds for projects and public goods, ensuring the ecosystem's continued growth. The community is invited to participate in nominating board members for collective governance.
+The proposed Community Treasury Board mirrors Polygon's success in governing funds for projects and public goods, fostering continued ecosystem growth.
 
 ### Transparency
 
-Regular board transparency reports and an open-sourced dashboard are proposed to enhance communication and accountability between the Community Treasury Board and the community.
+Regular board transparency reports and an open-sourced dashboard enhance communication and accountability, echoing the transparency practices of Polygon's governance.
 
 ### Community Participation
 
-The proposal aims to gradually increase the community's responsibility and authority in the decision-making process. Initially, a council oversees fund distribution, evolving toward community-led allocation facilitated by innovative governance models.
+The gradual increase in community responsibility and authority aligns with Polygon's philosophy, aiming for a future where the community leads allocation and decision-making processes.
 
 ### Explicit Community Governance
 
-Balancing the opinions of different stakeholders requires exploring novel voting mechanisms, such as quadratic voting and reputation-based voting.
+Innovative voting mechanisms like quadratic voting and reputation-based voting, inspired by Polygon, are explored to balance stakeholder opinions effectively.
 
 ### Project Selection
 
-The board reviews and selects projects initially, with plans for evolving to enable more direct community involvement. Community feedback guides parameters for evaluating public goods and ecosystem projects.
+The board's initial role in reviewing and selecting projects aligns with Polygon's approach, with plans for increased direct community involvement as the governance model evolves.
 
 ### Tokenomics
 
-As outlined in the Tokenomics Whitepaper, the Community Treasury is funded by a predetermined emission of FRT. The emission rate proposed is 1% per year, or ≈100 million FRT in absolute terms, and cannot be changed for 10 years.
+The emission-based funding for the Community Treasury, with a predetermined rate and a commitment period, draws inspiration from Polygon's successful tokenomics strategy.
 
 ---
 
 ## **FIP Protocol**
 
-A framework enabling formal participation in the funding process, similar to how the FIP framework serves protocol governance. Frietor Funding Proposals (FFPs) would be publicly available, accessible, and submittable by anyone, giving the community a means of communication with the community board.
+The proposed Frietor Funding Proposals (FFPs) protocol, allowing formal community participation in the funding process, draws inspiration from Polygon's proven framework, fostering communication and collaboration.
 
 ---
 
-This comprehensive governance and tokenomics proposal aim to foster transparency, community engagement, and sustainable growth within the Frietor ecosystem. We invite the Frietor community to review and contribute to this evolving framework.
+This comprehensive governance and tokenomics proposal aim to build upon the successful principles of Polygon's governance model, tailored for the Frietor ecosystem. We invite the Frietor community to review, contribute, and shape the evolution of this framework.
+
+---
+
+_Note: The Frietor governance model is based on the current governance model of Polygon, and due credit is given to Polygon for their innovative approach to decentralized governance ([Polygon Governance Pillars](https://polygon.technology/governance-pillars))._
