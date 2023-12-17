@@ -24,7 +24,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Community and Support
 
-- Join our community on [Discord](https://discord.gg/frietor).
+- Join our community on [Discord](https://discord.gg/3r8uHFwvUn).
 - For support, please reach out to [admin@esportzvio.com](mailto:admin@esportzvio.com).
 
 ## License

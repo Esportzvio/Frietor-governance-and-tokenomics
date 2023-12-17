@@ -57,7 +57,7 @@ If you encounter issues or have suggestions, please open a GitHub issue. Provide
 
 ## Contact
 
-For questions or assistance, you can reach out to our community on [Discord](https://discord.gg/frietor) or contact us at [admin@esportzvio.com](mailto:admin@esportzvio.com).
+For questions or assistance, you can reach out to our community on [Discord](https://discord.gg/3r8uHFwvUn) or contact us at [admin@esportzvio.com](mailto:admin@esportzvio.com).
 
 ## License
 
