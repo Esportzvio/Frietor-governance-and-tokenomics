@@ -1,26 +1,32 @@
-# Tokenomics Overview
+# Frietor Repository
 
-## Total Token Supply: 2 Billion Tokens
+## Overview
 
-| Category               | Allocation | Vesting          | Description                                                                                          |
-|------------------------|------------|------------------|------------------------------------------------------------------------------------------------------|
-| Public Sale/IDO        | 30%        | -                | Tokens distributed through the Initial DEX Offering (IDO) or public sale.                             |
-| Team and Advisors      | 20%        | 4-year vesting, 1-year cliff | Allocated for the project team and advisors to align interests with long-term success.              |
-| Ecosystem Development  | 25%        | -                | Reserved for ecosystem development, partnerships, marketing, and community incentives.               |
-| Staking Rewards        | 15%        | -                | Reserved for staking rewards to incentivize users to secure the network.                               |
-| Early Investors        | 5%         | Custom vesting   | Allocated for early investors with a custom vesting schedule for long-term commitment.                 |
-| Strategic Partnerships | 5%         | Vesting          | Allocated for strategic partnerships with vesting schedules applied.                                   |
+Welcome to the official repository for Frietor! This repository is a central hub for essential documents and resources providing in-depth insights into Frietor's tokenomics, governance structure, pitch, and whitepaper.
 
-## Burning Mechanisms
+## Contents
 
-| Mechanism                | Percentage | Description                                                                                                |
-|--------------------------|------------|------------------------------------------------------------------------------------------------------------|
-| Transaction Fees Burn    | 1-2%       | A percentage of transaction fees is burned to reduce the overall token supply over time.                  |
-| Utility Burning          | 1-2%       | Users can burn tokens for specific utilities within the platform, such as premium features or governance. |
+- **[Tokenomics](/tokenomics/README.md):** Explore the details of Frietor's token economy, including supply, distribution, and utility.
 
-## Staking and Governance
+- **[Governance](/governance/README.md):** Understand the governance model that empowers the community to make key decisions and shape the future of Frietor.
 
-| Mechanism               | Percentage | Description                                                                                                 |
-|-------------------------|------------|-------------------------------------------------------------------------------------------------------------|
-| Staking Rewards         | Variable   | Users receive staking rewards for locking up their tokens and participating in securing the network.         |
-| Governance Participation| Variable   | Token holders can use their tokens for governance, giving them voting power in protocol decision-making.     |
+- **[Pitch](/pitch/Esportzvio%20-%20Pitch%20deck.pdf):** Discover a succinct overview of Frietor, its value proposition, and its place in the broader decentralized technology landscape.
+
+- **[Whitepaper](/whitepaper/whitepaper.pdf):** Dive into the comprehensive technical and conceptual documentation of Frietor, detailing its architecture, protocols, and vision.
+
+## Getting Started
+
+If you're new to Frietor, start by exploring the [pitch](/pitch/Esportzvio%20-%20Pitch%20deck.pdf) to get a quick understanding of what we're building. For a deeper dive, read the [whitepaper](/whitepaper/whitepaper.pdf) for a comprehensive understanding of our technology and vision.
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the development or improvement of Frietor, please follow our [contribution guidelines](./CONTRIBUTING.md).
+
+## Community and Support
+
+- Join our community on [Discord](https://discord.gg/frietor).
+- For support, please reach out to [admin@esportzvio.com](mailto:admin@esportzvio.com).
+
+## License
+
+This repository is licensed under the [MIT License](./LICENSE).
