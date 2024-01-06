@@ -7,7 +7,6 @@ This document presents a summary of performance benchmarks for Frietor Saar prod
 | EOA to EOA        | 3,000    | 2,577     | 54,117,000      | 21,000               |
 | ERC20             | 820      | 813       | 23,005,250      | 28,297               |
 | ERC721            | 750      | 746       | 37,393,367      | 50,125               |
-|-------------------|----------|-----------|-----------------|----------------------|
 
 # #Test Environment
 
