@@ -22,6 +22,7 @@ If you're new to Frietor, start by exploring the [pitch](/pitch/Esportzvio%20-%2
 
 We welcome contributions from the community! If you'd like to contribute to the development or improvement of Frietor, please follow our [contribution guidelines](./CONTRIBUTING.md).
 
+
 ## Community and Support
 
 - Join our community on [Discord](https://discord.gg/3r8uHFwvUn).
